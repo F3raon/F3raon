@@ -9,8 +9,8 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
 - 🌍  I'm based in Egypt
 - 🖥️  See my portfolio at [ahmed-hamada-eta.vercel.app](https://ahmed-hamada-eta.vercel.app/)
 - ✉️  You can contact me at [ah4482336@gmail.com](mailto:ah4482336@gmail.com)
-- ✉️  You can send me a message [+201091626367](https://wa.me/201091626367)
-- ✉️  You can follow my waork [@_f3raon_ Ahmed Hamada](https://www.tiktok.com/@_f3raon_?_t=ZS-90u8O3BI0YK&_r=1)
+- ✍  You can send me a message [+201091626367](https://wa.me/201091626367)
+- 😄  You can follow my waork [@_f3raon_ Ahmed Hamada](https://www.tiktok.com/@_f3raon_?_t=ZS-90u8O3BI0YK&_r=1)
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
