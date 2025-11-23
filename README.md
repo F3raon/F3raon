@@ -99,7 +99,7 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /></a
   >
-<a
+<!-- <a
     target="_blank"
     rel="noreferrer"
     href="https://www.tiktok.com/@_f3raon_?_t=ZS-90u8O3BI0YK&_r=1"
@@ -107,7 +107,7 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/" /></a
-  >
+  > -->
 <a
     target="_blank"
     rel="noreferrer"
@@ -117,15 +117,15 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /></a
   >
-<a
+<!-- <a
     target="_blank"
     rel="noreferrer"
     href="https://wa.me/201091626367"
     ><img
       height="30"
       width="40"
-      src="https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/lib/index.js" /></a
-  >
+      src="https://raw.githubusercontent.com/wesleyeagles/whatsapp.svg" /></a
+  > -->
 <a
     target="_blank"
     rel="noreferrer"
