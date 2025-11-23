@@ -106,7 +106,7 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
     ><img
       height="30"
       width="40"
-      src="https://www.flaticon.com/free-icon/tik-tok_3046121?term=tiktok&page=1&position=2&origin=search&related_id=3046121" /></a
+      src="https://raw.githubusercontent.com/" /></a
   >
 <a
     target="_blank"
@@ -124,7 +124,7 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
     ><img
       height="30"
       width="40"
-      src="https://www.flaticon.com/free-icon/whatsapp_4423697?term=whatsapp&page=1&position=10&origin=tag&related_id=4423697" /></a
+      src="https://raw.githubusercontent.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" /></a
   >
 <a
     target="_blank"
