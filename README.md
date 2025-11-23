@@ -4,12 +4,12 @@
 
 ---
 
-Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
+Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experiences | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Code of Tomorrow, Today!
 
-- 🌍  I'm based in Jardan
+- 🌍  I'm based in Egypt
 - 🖥️  See my portfolio at [ahmed-hamada-eta.vercel.app](https://ahmed-hamada-eta.vercel.app/)
 - ✉️  You can contact me at [ah4482336@gmail.com](mailto:ah4482336@gmail.com)
-- 🤝  I'm open to collaborating on Web Products
+- ✉️  You can send me a message [+201091626367](https://wa.me/201091626367)
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
