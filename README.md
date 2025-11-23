@@ -44,7 +44,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
     height="36"
 /></a>
 <a
-  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+  href="https://developer.mozilla.org/en-US/docs/Web/CSS"
   target="_blank"
   rel="noreferrer"
 >
@@ -55,7 +55,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
     height="36"
 /></a>
 <a
-  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+  href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"
   target="_blank"
   rel="noreferrer"
 >
