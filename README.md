@@ -124,7 +124,7 @@ Passionate .Net Developer 🚀 | Crafting Engaging and Functional Online Experie
     ><img
       height="30"
       width="40"
-      src="https://raw.githubusercontent.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" /></a
+      src="https://raw.githubusercontent.com/wesleyeagles/whatsapp.svg" /></a
   >
 <a
     target="_blank"
