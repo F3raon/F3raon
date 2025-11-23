@@ -93,11 +93,20 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 <a
     target="_blank"
     rel="noreferrer"
-    href="https://www.linkedin.com/in/jaberdev"
+    href="https://www.linkedin.com/in/ahmed-hamada-saad/"
     ><img
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
+  >
+<a
+    target="_blank"
+    rel="noreferrer"
+    href="https://youtube.com/@f3raon55?si=t1Nu5_mPCjAUD58U"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /></a
   >
 </p>
 
