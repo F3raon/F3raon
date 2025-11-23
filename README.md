@@ -31,40 +31,24 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
     width="40"
     height="36"
 /></a>
-
-<a
-  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-  target="_blank"
-  rel="noreferrer"
->
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
     alt="HTML5"
     width="40"
     height="36"
-/></a>
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-  target="_blank"
-  rel="noreferrer"
->
+/>
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
     alt="CSS3"
     width="40"
     height="36"
-/></a>
-<a
-  href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"
-  target="_blank"
-  rel="noreferrer"
->
+/>
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
     alt="BootStrap"
     width="40"
     height="36"
-/></a>
+/>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
   ><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
