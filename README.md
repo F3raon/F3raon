@@ -31,13 +31,6 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
     width="40"
     height="36"
 /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"
-  ><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-    alt="Git"
-    width="40"
-    height="36"
-/></a>
 
 <a
   href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -84,25 +77,27 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
     alt="Firebase"
     width="40"
     height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
-  ><img
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
     alt="Firebase"
     width="40"
-    height="36" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"
-  ><img
+    height="36" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+  <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
     alt=".NET"
     width="40"
-    height="36" /></a
-><a href="https://www.linux.org" target="_blank" rel="noreferrer"
-  ><img
+    height="36" />
+</a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+  <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
     alt="Linux"
     width="40"
-    height="36" /></a
->
+    height="36" />
+</a>
 
 </p>
 
