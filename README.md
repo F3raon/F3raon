@@ -93,20 +93,47 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 <a
     target="_blank"
     rel="noreferrer"
-    href="https://www.linkedin.com/in/ahmed-hamada-saad/"
-    ><img
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
-  >
-<a
-    target="_blank"
-    rel="noreferrer"
     href="https://youtube.com/@f3raon55?si=t1Nu5_mPCjAUD58U"
     ><img
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /></a
+  >
+<a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.tiktok.com/@_f3raon_?_t=ZS-90u8O3BI0YK&_r=1"
+    ><img
+      height="30"
+      width="40"
+      src="https://www.flaticon.com/free-icon/tik-tok_3046121?term=tiktok&page=1&position=2&origin=search&related_id=3046121" /></a
+  >
+<a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.instagram.com/_f3raon_?igsh=NXQ4dnk0dHZ3b2Nz"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /></a
+  >
+<a
+    target="_blank"
+    rel="noreferrer"
+    href="https://wa.me/201091626367"
+    ><img
+      height="30"
+      width="40"
+      src="https://www.flaticon.com/free-icon/whatsapp_4423697?term=whatsapp&page=1&position=10&origin=tag&related_id=4423697" /></a
+  >
+<a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.linkedin.com/in/ahmed-hamada-saad/"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
   >
 </p>
 
